@@ -1,5 +1,10 @@
 [
   {
+    "id": "1727831412047",
+    "content": "基于 cloudflare 和 https://github.com/cf-pages/Telegraph-Image 的免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。",
+    "timestamp": "2024-10-02T01:10:12.047Z"
+  },
+  {
     "id": "1727831337063",
     "content": "使用 [tinymind](https://github.com/mazzzystar/tinymind) 创建一个简易的写作空间。",
     "timestamp": "2024-10-02T01:08:57.063Z"
