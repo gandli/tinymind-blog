@@ -1,5 +1,10 @@
 [
   {
+    "id": "1727831539828",
+    "content": "基于 Cloudflare 和 https://github.com/7Sageer/sublink-worker 创建了订阅转换。\n Sublink Worker 是一个可部署在 Cloudflare Worker 上，小而美的订阅转换工具。可以将各种代理协议的分享 URL 转换为不同客户端可用的订阅链接。同时还提供灵活的自定义规则与API支持。",
+    "timestamp": "2024-10-02T01:12:19.828Z"
+  },
+  {
     "id": "1727831460637",
     "content": "注册了 serv00 免费小主机",
     "timestamp": "2024-10-02T01:11:00.637Z"
